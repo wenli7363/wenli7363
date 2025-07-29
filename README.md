@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @wenli7363, also known as Codemon.
-- 👀 I’m interested in Computer Science, ML, networks, ReverseEngineering,system,DB,Distribution System....
-- 🌱 I’m currently study in UESTC. My major is Data Science.
-- 💞️ I’m looking to collaborate on System.
+- 👀 I’m interested in CS and AI....
+- 🌱 I got my Bachelor in UESTC, and will get my Msc Degree in HKU. 
+- 💞️ I’m a nerd and cpp developer.
 - 📫 How to reach me : email: cjy0415@qq.com
 - 📝 You can also visit my blog at [here](https://www.cnblogs.com/jye159X/) to read more about my projects and interests.
 
