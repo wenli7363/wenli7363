@@ -1,6 +1,7 @@
 - 👋 Hi, I'm @wenli7363, also known as Codemon.
 - 👀 I’m interested in CS and AI....
-- 🌱 I got my Bachelor in UESTC, and will get my Msc Degree in HKU. 
+- 🌱 I graduated form UESTC(Bachelor) and HKU(Master).
+- 💻︎ Now I work in @Alibaba 
 - 💞️ I’m a nerd and cpp developer.
 - 📫 How to reach me : email: cjy0415@qq.com
 - 📝 You can also visit my blog at [here](https://www.cnblogs.com/jye159X/) to read more about my projects and interests.
