@@ -11,11 +11,24 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: wenli7363
           BRANCH_NAME: stats
-          THEME: tokyonight
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: push to stats branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats
+          build_dir: profile-summary-card-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

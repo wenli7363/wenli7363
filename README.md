@@ -73,17 +73,17 @@ motto: "Make it work, make it right, make it fast."
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/3-stats.svg" />
-<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/tokyonight/3-stats.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/tokyonight/1-repos-per-language.svg" />
 
 <br/>
 
-<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/tokyonight/2-most-commit-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/tokyonight/4-productive-time.svg" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/tokyonight/0-profile-details.svg" />
 
 </div>
 
