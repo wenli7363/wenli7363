@@ -60,22 +60,12 @@ motto: "Make it work, make it right, make it fast."
 
 ### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/wenli7363/knock-knock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenli7363&repo=knock-knock&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wenli7363/Bakubaku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenli7363&repo=Bakubaku&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wenli7363/Distributed-parallel-computing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenli7363&repo=Distributed-parallel-computing&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wenli7363/BCI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenli7363&repo=BCI&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [knock-knock](https://github.com/wenli7363/knock-knock) | Terminal AI agent notification tool | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
+| [Bakubaku](https://github.com/wenli7363/Bakubaku) | AI-powered intelligent disk cleaner | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [Distributed-parallel-computing](https://github.com/wenli7363/Distributed-parallel-computing) | Distributed & parallel computing projects | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
+| [BCI](https://github.com/wenli7363/BCI) | Brain-Computer Interface — graduation project | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
 
@@ -83,12 +73,17 @@ motto: "Make it work, make it right, make it fast."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wenli7363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenli7363&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wenli7363&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/wenli7363/wenli7363/stats/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 </div>
 
