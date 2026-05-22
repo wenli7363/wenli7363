@@ -20,14 +20,14 @@
 ### About Me
 
 ```yaml
-name: Chen Jiye
-alias: Codemon
+name: Chen Jiye (Jay)
+alias: Wenli7363/Codemon
 role: Systems Engineer @ Alibaba
 education:
   master: The University of Hong Kong (HKU)
   bachelor: University of Electronic Science and Technology of China (UESTC)
-interests: [High-Performance Computing, Distributed Systems, AI/ML, OS Development]
-motto: "Make it work, make it right, make it fast."
+interests: [High-Performance Computing, Distributed Systems, AI/ML, Chromium Development]
+motto: "Hardworking until work easily"
 ```
 
 ---
